@@ -1,4 +1,4 @@
-Hi there, I'm Fabian 👋
+# Hi there, I'm Fabian 👋
 About Me
 I'm a passionate Frontend Developer with a strong focus on building modern, responsive, and user-friendly web applications. I enjoy turning complex ideas into clean, maintainable code and I'm always learning new technologies to improve my craft.
 

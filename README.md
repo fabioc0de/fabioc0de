@@ -25,7 +25,8 @@ I'm a passionate Frontend Developer with a strong focus on building modern, resp
 <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
 ## Connect with me
-<p align="left"> <a href="https://linkedin.com/in/[TU_LINKEDIN]" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /> </a> <a href="mailto:fabio.03dev@gmail.com" target="_blank">
+<p align="left"> <a href="https://linkedin.com/in/[www.linkedin.com/in/
+fabio03dev]" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /> </a> <a href="mailto:fabio.03dev@gmail.com" target="_blank">
   <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" height="30" width="40" />
 </a>
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch.
